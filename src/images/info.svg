@@ -1,65 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="info.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2160"
-     inkscape:window-height="1221"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="22.96875"
-     inkscape:cx="0.21325476"
-     inkscape:cy="11.014041"
-     inkscape:window-x="0"
-     inkscape:window-y="42"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0" />
-  <g
-     fill="#1d99f3"
-     id="g6"
-     style="fill:#2272e6;fill-opacity:1"
-     transform="matrix(1.8333333,0,0,1.8333333,-3.6666664,-3.6666664)">
-    <path
-       d="M 8,2 A 6,6 0 1 0 8,14 6,6 0 0 0 8,2 Z M 8,3 A 5,5 0 1 1 8,13 5,5 0 0 1 8,3 Z"
-       id="path2"
-       style="fill:#2272e6;fill-opacity:1" />
-    <path
-       d="m 7.5,6 h 1 v 6 h -1 z m 0,-2 h 1 v 1 h -1 z"
-       id="path4"
-       style="fill:#2272e6;fill-opacity:1" />
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="288.000000pt" height="288.000000pt" viewBox="0 0 288.000000 288.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,288.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1330 2874 c-211 -25 -375 -71 -531 -149 -411 -207 -687 -578 -775
+-1040 -24 -124 -23 -357 0 -490 108 -600 571 -1064 1171 -1171 133 -23 356
+-24 490 0 597 105 1064 572 1171 1171 24 134 24 356 0 490 -94 526 -463 952
+-970 1120 -55 18 -144 41 -196 49 -97 17 -297 28 -360 20z m404 -268 c537
+-141 906 -615 906 -1166 0 -188 -37 -352 -115 -515 -205 -425 -617 -685 -1085
+-685 -298 0 -574 104 -790 297 -269 240 -410 550 -410 903 0 353 141 664 410
+905 156 138 364 240 576 280 127 24 382 14 508 -19z"/>
+<path d="M1320 2280 l0 -120 120 0 120 0 0 120 0 120 -120 0 -120 0 0 -120z"/>
+<path d="M1320 1200 l0 -720 120 0 120 0 0 720 0 720 -120 0 -120 0 0 -720z"/>
+</g>
 </svg>
